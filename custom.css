@@ -1,0 +1,10 @@
+body {
+    font-family: 'Cairo', sans-serif; /* تغيير الخط إلى خط عربي */
+    background-color: #f9f9f9; /* تغيير لون الخلفية */
+}
+header, footer {
+    background-color: #333; /* لون خلفية داكن للترويسة والتذييل */
+    color: white; /* نص أبيض */
+}
+
+
